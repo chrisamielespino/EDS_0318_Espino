@@ -1,7 +1,7 @@
 ## 📂 Repository Architecture
 The repository has been updated to match the strict project requirements:
 ```text
-EDS_[STUDENTNUMBER]_[SURNAME]/
+EDS_0318_Espino/
 ├── data/
 │   ├── dataset_original.csv   <- Original raw Kaggle SCADA data
 │   └── dataset_cleaned.csv    <- Processed, deduplicated 8-12 m/s data slice
@@ -16,28 +16,11 @@ EDS_[STUDENTNUMBER]_[SURNAME]/
 └── README.md                  <- Project documentation webpage
 ```
 
-Save, commit, and push this change using your terminal:
-```bash
-git add README.md
-git commit -m "docs: sync readme directory map with final 5-plot submission parameters"
-git push origin main
-```
-
----
-
-### 📄 Step 2: Submission Report / Paper Template
-
-To save you time on your project documentation paper, here is a highly technical, structured report template based on your actual data outputs and the curriculum mapping framework outlined in your reference paper. 
-
-Copy this text into your word processor (like Google Docs or MS Word) and fill in your details:
-
-***
 
 # ENGINEERING PROJECT REPORT
 **Project Title:** Modular Data Pipeline for Wind Turbine SCADA Performance and Analytics  
 **Course Code:** Engineering Data Systems (EDS)  
 **Topic Reference:** RMS-01: Wind Turbine Gearbox Vibration  
-**Academic Framework Reference:** Madrigal & Cabatuan (2026) OBE Automation Guidelines  
 
 ---
 
